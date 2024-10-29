@@ -1,1 +1,1 @@
-# PRODIGY_WD_2
+This project is a simple stopwatch web application that implements functions for starting, pausing, resetting, and recording laps to track accurate time intervals.  It is structured using HTML, styled with CSS, and made interactive with JavaScript.It provides a user-friendly interface for managing time effectively.
